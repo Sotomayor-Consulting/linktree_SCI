@@ -1,91 +1,46 @@
 {
   "config": {
-    "title": "Artistree Landing",
+    "title": "Sotomayor Consulting International",
     "description": "Landind en Astro",
-    "theme": "violet",
+    "theme": "dark",
     "font": "modern",
-    "copyright": "© 2025 Franco Suárez"
+    "copyright": "© 2025 Sotomayor Consulting International"
   },
   "artist": {
-    "name": "Singer Artist",
-    "description": "Cantante y compositor de música indie.",
-    "bio": "Creando musica desde siempre",
-    "picture": "/img/profile.webp"
+    "name": "Sotomayor Consulting International",
+    "description": "Firma boutique de consultoría legal, fiscal y tecnológica.",
+    "bio": "Expande tu negocio a EE. UU.",
+    "picture": "/img/perfil.jpg"
   },
   "socials": {
-    "instagram": "https://instagram.com/franco",
-    "facebook": "https://facebook.com/franco",
-    "x": "https://x.com/franco",
-    "youtube": "https://youtube.com/franco",
-    "tiktok": "https://www.tiktok.com/@tuusuario"
+    "instagram": "https://www.instagram.com/sotomayorconsulting",
+    "facebook": "https://www.facebook.com/SOTOMAYORCONSULTING/",
+    "youtube": "https://www.youtube.com/@sotomayorconsulting",
+    "tiktok": "https://www.tiktok.com/@sotomayor.consulting"
   },
   "booking": {
-    "email": "booking@artistree.link",
-    "phone": "+54 911 2345 6789"
+    "email": "servicios@sotomayorconsulting.com"
   },
-  "shows": [
-    {
-      "title": "Bailaso",
-      "date": "2025-09-12",
-      "city": "Córdoba",
-      "country": "AR",
-      "venue": "Club Paraguay",
-      "tickets": "https://mipass.com/entradas/xyz",
-      "available": true
-    },
-    {
-      "title": "Bailaso",
-      "date": "2025-10-05",
-      "city": "Madrid",
-      "country": "ES",
-      "venue": "Sala Caracol",
-      "tickets": "https://mipass.com/entradas/xyz",
-      "available": false
-    }
-  ],
-  "releases": [
-    {
-      "title": "Noche Eterna",
-      "album": "Noche Eterna Album",
-      "releaseDate": "2025-08-15",
-      "cover": "/img/covers/cover1.webp",
-      "links": {
-        "spotify": "https://open.spotify.com/track/...",
-        "applemusic": "https://music.apple.com/...",
-        "youtube": "https://www.youtube.com/watch?v=VxGW_AQwWfo"
-      }
-    },
-    {
-      "title": "Amanecer",
-      "album": "Noche Eterna Album",
-      "releaseDate": "2025-05-02",
-      "cover": "/img/covers/cover1.webp",
-      "links": {
-        "spotify": "https://open.spotify.com/track/...",
-        "applemusic": "https://music.apple.com/...",
-        "youtube": "https://www.youtube.com/watch?v=VxGW_AQwWfo"
-      }
-    }
-  ],
   "links": [
     {
-      "label": "Instagram Persona",
-      "description": "Perfil personal de Instagram",
-      "url": "https://open.spotify.com/artist/...",
+      "label": "Agenda tu asesoría gratuita",
+      "url": "https://calnode.sotomayorconsulting.com/book/landing-event",
+      "cover":"/img/covers/calendario.png"
+    },
+    {
+      "label": "Habla con nosotros por WhatsApp",
+      "url": "https://api.whatsapp.com/send?phone=17542252904&text=Hola.%20Me%20gustar%C3%ADa%20pedir%20mas%20informaci%C3%B3n%20sobre%20los%20servicios%20de%20Sotomayor%20Consulting.",
+      "icon": "whatsapp"
+    },
+    {
+      "label": "Guía: antes de incorporar tu LLC",
+      "url": "https://www.sotomayorconsulting.com/guia-llc-estados-unidos/",
+      "cover": "/img/covers/guia.avif"
+    },
+    {
+      "label": "Conoce nuestros servicios",
+      "url": "https://www.sotomayorconsulting.com/",
       "icon": "website"
-    },
-    {
-      "label": "Instagram Productora",
-      "description": "Perfil de Instagram de la productora",
-      "url": "https://music.apple.com/artist/...",
-      "icon": "instagram",
-      "cover": "/img/profile.webp"
-    },
-    {
-      "label": "YouTube",
-      "description": "Canal de YouTube del artista",
-      "url": "https://www.youtube.com/channel/...",
-      "icon": "youtube"
     }
   ]
 }
